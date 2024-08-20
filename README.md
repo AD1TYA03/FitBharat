@@ -47,3 +47,6 @@ The app includes several predictive models that analyze the user's data to provi
 1. Activity Level Predictions: Predict future activity levels based on past data.
 2. Calorie Burn Predictions: Estimate calories burned for specific activities.
 3. Heart Rate Analysis: Predict potential heart rate trends and abnormalities.
+
+<img src="https://github.com/user-attachments/assets/5290572f-0739-4563-901c-c7c92dfc15fa" alt="FitBharat workflow" width="400"/>
+
